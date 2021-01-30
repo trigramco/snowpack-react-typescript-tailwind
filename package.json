@@ -3,12 +3,6 @@
   "description": "A preconfigured template for Snowpack with React, TypeScript & Tailwind",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-react-typescript#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/snowpackjs/snowpack.git",
-    "directory": "create-snowpack-app/app-template-react-typescript"
-  },
   "keywords": [
     "csa-template"
   ],
